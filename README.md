@@ -3,8 +3,10 @@
 # Multiclass-classification
 
 This repository contains supervised machine learning classification algorithms such as
+
 • DecisionTree
 • KNN
+
 and will be updated with more classification algorithms...
 
 for a multiclass classification problem.
